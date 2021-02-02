@@ -1,0 +1,16 @@
+.idea
+*.log
+*.iml
+pip-log.txt
+db.sqlite3
+
+.env/
+.venv/
+env/
+venv/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
